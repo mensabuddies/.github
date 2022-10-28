@@ -22,3 +22,7 @@ The iOS (maintened by @TimoReusch) and Android (maintained by @erikspall) versio
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## Credits
+### Logo
+The icon design was done by Jowel Ahmed. Check out his amazing work on [Dribbble](https://dribbble.com/jowelahmed_s).
